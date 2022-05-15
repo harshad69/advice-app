@@ -24,7 +24,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [https://github.com/harshad69/advice-app](https://github.com/harshad69/advice-app)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://harshad69.github.io/advice-app/](https://harshad69.github.io/advice-app/)
 
 ## My process
 
